@@ -1,0 +1,43 @@
+I"
+<h2 id="saving-classes-of-interest">Saving Classes of Interest</h2>
+<p>Search Courses for SNU CRS and save courses as ‘Class of Interest’. You can use it for pre-course registration and course registration.</p>
+<h2 id="course-registration">Course registration</h2>
+<p><img src="/assets/images/sugang/shopping-diagram.png" alt="&quot;Class shopping diagram&quot;" /></p>
+
+<ul>
+  <li>Course cart shopping (Day 1-2): 
+You can freely search classes and add it to course cart.</li>
+  <li>Course cart confirmation (Day 3): 
+Registration will be confirmed after comparing number of course carts and course quota.
+    <ul>
+      <li>If the number of course cart(s) is <strong>no more than</strong> course quota, all course carts will be confirmed and shown in course registration list.</li>
+      <li>If the number of course carts <strong>exceeds</strong> course quota, all course carts will be withheld and the course will be designated as “Pending courses”.</li>
+    </ul>
+  </li>
+  <li>Course registration (Day 4-6): 
+First-come-first-served registration for vacancies.</li>
+</ul>
+
+<p>However, <strong>on the Day 1 of First-come-first-served registration (= Day 4 of course registration), registration of “pending courses” will be limited to students added courses to cart.</strong> After day 1, anyone can freely register for vacancies in the courses.</p>
+
+<h2 id="course-change">Course change</h2>
+<ul>
+  <li><strong>Delete courses</strong>: Select and Delete courses in the course registration list</li>
+  <li><strong>Register new courses</strong>: Add courses by registration</li>
+</ul>
+
+<p>▶ ‘Available quota after cancellation’ mark: <strong>취소여석 표시</strong></p>
+
+<p>Once course quota is full and if vacancies are available due to cancellation, the mark would be shown under course title. Please note that register courses that marked ‘Available quota after cancellation’ registration is <strong>limited to 3 times in a day</strong> (10:00~11:00 / 13:00~14:00 / 15:00~16:00).</p>
+
+<h2 id="additional-reference">Additional Reference</h2>
+
+<p>You can also check out the video made by SNU Office of International Affairs for visualization!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gApnUuUmN8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p><p>
+
+We hope you find this article helpful. Please leave any comments down below if you have any questions about SNU class registration!
+</p></p>
+:ET
