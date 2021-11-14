@@ -1,0 +1,169 @@
+---
+layout: post
+title:  "Visa for international students in Korea"
+date:   2021-11-14 00:05:38 +0900
+categories: visa
+---
+## How to obtain a Visa in your country
+If you are planning to study in Korea, you must apply for relevant visa at an overseas Korean embassy or consulate. The application procedure may vary according to the embassy or consulate, so it is advised to check with your local Korean consular officer.
+
+### Visa types
+- **Students Visa (D-2)** : for general students seeking degree at SNU or exchange / visiting students. (Maximum length of Stay for one issurance: Up to 2 years)
+
+| Code  | Target            |
+|-------|-------------------|
+| D-2-1 | Associate Degree  |
+| D-2-2 | Bachelor's Degree |
+| D-2-3 | Master's Degree   |
+| D-2-4 | Doctoral Degree   |
+| D-2-5 | Research Study    |
+| D-2-6 | Exchange Student  |
+| D-2-7 | Work-Studying     |
+| D-2-8 | Short-term study  |
+
+- Training Visa (D-4) : for students who will attend Korean language programs only  (Maximum length of Stay for one issurance : Up to 2 years)
+
+- Research Visa (E-3) : for researchers who will conduct research activities in a laboratory or research institute (Maximum length of Stay for one issurance : Up to 5 years)
+
+- Professorship Visa (E-1) : for professors seeking to give lectures in an educational facility. (Maximum length of Stay for one issurance: Up to 5 years)
+
+**Notes**:
+- If you are a Korean citizen who got an admission under foreign students’ admission category, you do not need to apply for a visa.
+- If student possess other type of visa, he/she is required to visit the Immigration Office for study abroad eligibility with their current visa.
+(Other types of visa eligible for study in Korea: F-2, F-4, F-5 etc.)
+- If the student does not have study abroad eligibility, he/she must obtain an appropriate visa for study abroad or obtain an approval on their current visa for allowance of study abroad.
+- Even if you possess a valid visa for study abroad, you must apply for an update before the start of the semester to reflect the affiliated school information on your visa on your visa at Korean Immigration Office.
+- If the student fails to obtain an approval for study abroad on their visa but continues to pursue their studies as an international student in Universities in Korea, he/she will be imposed a fine.
+
+### Visa issurance procedure
+![Procedure](/assets/images/visa/procedure-eng.png)
+Image form [HiKorea](https://www.hikorea.go.kr)
+
+
+### Required Document for D-2 Visa Application
+- Passport 
+- [Visa Issuance Application Form](https://www.hikorea.go.kr/board/BoardApplicationListR.pt)
+- Certificate of Admission 
+- A color photo in the last 6 months 
+- A copy of certificate of school business administration 
+- Certificate of the latest scholastic achievement 
+- Document proof of your financial ability (amount of money equivalent to the tuition fee and living expenses for a year, $13,000) (
+- Family Relation Certificate (If your document proof of your financial ability is under the name of the applicant’s parent.)
+
+**Notes**:
+- The Korean Embassy or Consulate abroad may ask you to submit additional documents.
+- Should a visa applicant enter Korea prior to the actual issuance of visa, it will be assumed that the applicant is withdrawing their application, and the issuance will be canceled.
+
+## Visa extension
+During your study/research/training, you must make sure to extend your sojourn period before it expires. You can file an application for extension by either visiting the immigration office or submitting online application through [HiKorea portal](www.hikorea.go.kr). If you fail to extend it in time, you will be considered as illegally studying/working in Korea and thus be in violation of Korean Immigration Law.
+
+A request for an extension of sojourn period can be made **from 4 months** before the expiration date by making a visit to the immigration office or filling an e-application through Hikorea. For the online application, there will be a discount in application fee from 60,000 KRW to 50,000 KRW.
+
+### Required Document for D-2 Visa Extension
+- Application Form (Report Form) (Downloadable at Forms Download menu / Pick-up available at OIA office)
+- Passport
+- Alien Registration Card 
+- Certificate of Enrollment at SNU (for D-2 visa holders) / Renewal Contract (for professors/researchers)
+- Academic Transcripts (for D-2 visa holders)
+- Application Fee (60,000 KRW)
+- Confirmation Form for Faculty Advisor on a Student’s Thesis Schedule (Degree-seeking students who need sojourn extension to work on the graduation thesis only) (Downloadable at Forms Download menu / Pick-up available at OIA office)
+- Confirmation of Residence/Accommodation
+    - If you live ‘on-campus’, you can print this document from MySNU portal through Residence Halls menu. 
+    - If you live ‘off-campus’, you must provide a copy of your lease contract, a confirmation of your stay at the provided residence, and a payment receipt for use of any public utility services such as water or electricity.
+- Other additional documents upon request from the immigration office, including the bank statement (in case your CGPA is lower than 2.0). 
+
+### Maximum Valid Period of D-2 Students Visa
+- Associate Degree : Maximum of 3 years after admission
+- Bachelor’s Degree : Maximum of 6 years after admission
+- Master’s Degree : Maximum of 5 years after admission (6 years if it is 3 years course)
+- Doctoral Degree : Maximum of 8 years after admission
+
+## Alien Register Card(외국인 등록증)
+All foreigners who are to stay for more than 90 days must complete alien registration within 90 days of arrival to Korea. After alien registration, you will be given an ID card, namely, Alien Registration Card (ARC), which states your permitted sojourn period (on the backside). For any kind of inquiries on your alien registration and sojourn status, you can contact the immigration office directly through calling [1345](tel:1345) (without area code).
+
+Please carefully note that takes about 6 weeks for the Alien Registration Card (ARC) to be issued and you cannot leave Korea before you obtain the card. It is thus recommended that you obtain a Certificate of Alien Registration (외국인등록 사실증명서) after you apply at the immigration office (fee: 2,000 KRW). This certificate will temporarily serve as a substitute for your ARC and can be used for academic affairs until you formally receive your ARC. However, please note that the Certificate of Alien Registration cannot be used to open a Korean bank account or be used to sign in for mobile phone subscriptions.
+
+### Required Document for ARC
+- Application Form (Report Form)
+    - Downloadable at Forms Download menu / Pick-up available at OIA office
+- Passport
+    - Both original and photocopies of the information page and visa page
+- One passport photo (3.5 cm x 4.5 cm, taken with a white background)
+- Application Fee (30,000 KRW)
+- Certificate of Enrollment at SNU (재학증명서) (for D-2 visa holders) / Contract (for professors/researchers)
+    - Printable through mySNU > Get Certificates
+- Confirmation of Residence/Accommodation (거주숙소제공확인서)
+    - If you live ‘on-campus’, you can print this document from MySNU portal through Residence Halls menu. 
+    - If you live ‘off-campus’, you must provide a copy of your lease contract, a confirmation of your stay at the provided residence, and a payment receipt for use of any public utility services such as water or electricity.
+- Certificate of Health Examination Form (Tuberculosis (TB) Test Certificate):  
+    - Required to those who are with the following nationalities and did not submit the certificate during the visa application: (High TB-burden countries: Bangladesh, Cambodia, China, East Timor, India, Indonesia, Kyrgyzstan, Malaysia, Mongolia, Myanmar, Nepal, Pakistan, Russia, Sri Lanka, Thailand, Philippines, Laos, Uzbekistan, Vietnam, Nigeria, South Africa, Belarus, Mozambique, Moldova Republic, Azerbejan, Angola, Ethiopia, Ukraine, Kazakhstan, Democratic Republic of Congo, Kenya, Papua New Guinea, Tajikistan, Peru)
+
+**Notes**:
+- If you lose your Alien Registration Card, you must report the loss to the Immigration Office **within 14 days** of the occurrence of loss. If you do not report within the given time period, you will be fined. To report the loss of your ARC and apply for re-issuance, please prepare the required documents and submit them to the Seoul/Sejongro Immigration Office.
+- You must report any changes that may affect the status of your alien registration **within 14 days** of the occurrence of change. If you do not report within 14 days, you will be fined.
+    - Change of name, sex, date of birth, or nationality
+    - Change of passport number, issuance date, or its expiration date
+    - Change in address of residence in Korea
+    - Change of university, workplace, or details of the organization you are part of (including name changes)
+    
+    You may report the change of address at the Gwanak-gu District Office. However, changes for the rest of the information must be reported to the immigration office.
+
+### Required Documents for reporting status change
+- Application Form (Report Form)
+- Passport
+- Alien Registration Card
+- Additional documents required to attest the change of information (a new contract for change of address, a new passport for change of passport information, etc.)
+
+## Leave of absence
+SNU international student who takes a Leave of Absence(휴학) or No Leave of Absence(미휴학파견/participating on an exchange program outside of Korea) will be deemed to have stopped their study in Korea. This change in the student status must be reported to the Immigration Office by the OIA. You must leave Korea **within 30 days from the date of occurrence.**
+
+Upon your report of the occurrence, your authorized length of stay will be automatically shortened regardless of the period printed on your visa or the dates printed on your ARC. Furthermore, your ARC will be voided based on the change in your alien registration. You must turn in your ARC at the international airport when you depart from Korea.
+
+To reenter Korea, you must acquire a new student visa (D-2), which in turn means that you need a new Certificate of Admission. When you apply for a new student visa, please contact the OIA for a Certificate of Admission. As you have turned in your ARC at the international airport upon your departure, you must apply for a new one upon your return to Korea.
+
+**Notes**:
+- If you are registered foreigner and plan to return Korea within a year from the departure date, you are exempted from re-entry permit.
+- If your period of sojourn remains less than a year, you are exempted from re-entry permit for the remaining period.
+- If you need the permission due to the entry restrictions, you may apply for the permission from the competent immigration office free of charge.
+
+### Required documents to get re-entry permit.
+- An application form
+- Passport
+- Alien registration card
+
+## Part-time Work Permission
+
+It is illegal for D-2 visa holders to work outside of the university and earn an income without acquiring a prior permission. To obtain this permission, you are required to file an application for part-time work permission to the immigration office, by submitting the following documents and completing all the necessary processes before you start to work. If you work without a permission, you will immediately get fined and restricted from taking part-time permissions for one year. If you are once again disclosed to violate the regulation, you will be immediately deported.
+
+### Eligibility and Restrictions
+D-2 visa holders who are qualified with sufficient GPA and TOPIK or English test score can apply for part-time work permission. If the intended workplace falls under the category of construction and manufacturing, part-time work is not permitted. (Exception: When the workplace falls under a complex type (construction/manufacturing/services), permission may be granted. When the applicant is with TOPIK Level 4 or above, permission for manufacturing type can be granted.)
+
+### Examples of possible types of part-type work
+- Translation/Interpretation
+- Restaurant assistant
+- Office assistant
+- Tour guide assistant
+- Duty-free shop sales assistant
+
+### Required Documents for part-time work permission
+- Part-time Work of Foreign Student Confirmation Form
+    * Please note that this confirmation form must first be approved and signed by the authorized officials at SNU before you file an application to the immigration office. To process this initial approval, please contact **i-office@snu.ac.kr**.
+- Passport
+- Alien Registration Card
+- Academic Transcripts (Minimum Required GPA: 2.3)
+- TOPIK Certificate (when applicable)
+- Contract
+- A Copy of a Certificate of Business Registration of your intended place of work
+- Other additional documents upon request from the immigration office.
+
+### Working Hours Limit
+
+- Undergraduate students (Year 1 - 2)
+    - With TOPIK Level 3 or above: 25 hours per week (weekdays), no limit (weekend)
+    - Without TOPIK: 10 hours per week (weekdays and weekend)
+- Undergraduate students (Year 3 - 4)
+    - With TOPIK Level 4 or above: 25 hours per week (weekdays), no limit (weekend)
+    - Without TOPIK: 10 hours per week (weekdays and weekend)
+- Graduate students
+    - With TOPIK Level 4 or above: 35 hours per week (weekdays), no limit (weekend)
+    - Without TOPIK: 15 hours per week (weekdays and weekend)
