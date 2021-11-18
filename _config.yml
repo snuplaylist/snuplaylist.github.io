@@ -155,9 +155,10 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "슬기로운 서울대생활 SNU Playlist"
+    heading: "슬기로운 서울대 생활 SNU Playlist"
     subheading: "A webzine that has everything you need for a convenient life in Seoul National University"
     banner: "/assets/images/home.jpg"
+  comments: true
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also

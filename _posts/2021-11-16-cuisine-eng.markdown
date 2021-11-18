@@ -49,8 +49,7 @@ The next is the Italian restaurant, “Seeat yangsik”. There are many Italian 
 
 ‘Spicy ttukbaegi pasta’ is one of the most popular menus in Seeat yangsik. Ttukbaegi is a traditional Korean bowl for soup. What is special about this place is that it puts pasta in the Ttukbaegi. Tomato based pasta is somewhat spicy, so you’d better try it with the chicken rice. ‘Salted octopus(nakjijeot) rose pasta’ is also a representative menu of Seeat yangsik. Salted octopus(nakjijeot) is a type of salted seafood and it refers to a traditional Korean food in which octopus is pickled in salt and seasoning. Salted octopus and rose pasta don't seem to go well together. However, when you actually try it, the combination of salty taste of salted octopus and the savory taste of rose pasta is fantastic. It can be said to be a meeting of the East and the West. Also, don’t forget the chop steak and pizza! I recommend Seeat yangsik for those who want to enjoy a crossover of Korean and Italian food in a cozy restaurant.
 
-
-<img style="float: right; width:300px; height: 300px;" src="/assets/images/cuisine/italia.jpg">
+<img style="float: center; width:300px; height: 300px;" src="/assets/images/cuisine/italia.jpg">
 
 Menu: Spicy ttukbaegi pot pasta (+ chicken rice) 13,000 won
 
