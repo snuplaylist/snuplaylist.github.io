@@ -184,7 +184,7 @@ defaults:
 
 # Disqus comments
 disqus:
-  shortname: "snuplaylist"
+  shortname: "https-snuplaylist-github-io"
 
 # Gitment comments
 # gitment:
