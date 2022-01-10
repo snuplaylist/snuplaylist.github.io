@@ -147,9 +147,10 @@ yat:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - guestbook.md
-  - categories.html
   - about.markdown
+  - categories.html
+  - guestbook.md
+  
 
 # Page default value
 defaults:
@@ -157,7 +158,7 @@ defaults:
     heading: "슬기로운 서울대 생활 SNU Playlist"
     subheading: "A webzine that has everything you need for a convenient life in Seoul National University"
     banner: "/assets/images/home.jpg"
-  comments: true
+  comments: false
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -182,8 +183,8 @@ defaults:
 # paginate: 5
 
 # Disqus comments
-disqus:
-  shortname: "https-snuplaylist-github-io"
+# disqus:
+#   shortname: "snuplaylist-github-io"
 
 # Gitment comments
 # gitment:

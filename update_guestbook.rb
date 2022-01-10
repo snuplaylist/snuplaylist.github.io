@@ -3,9 +3,9 @@
 
 require 'httparty'
 
-NETLIFY_PERSONAL_ACCESS_TOKEN = 'R53yACs27R2c9R2Y4ijDkzIW3YF_bheNfICzT1jGAfs'
-NETLIFY_SITE_ID =               '28f1c9cd-17d8-4335-b8ce-3871d5c9e917'
-NETLIFY_FORM_ID =               '61a86edc4fc1690008432673'
+# NETLIFY_PERSONAL_ACCESS_TOKEN = 'R53yACs27R2c9R2Y4ijDkzIW3YF_bheNfICzT1jGAfs'
+# NETLIFY_SITE_ID =               '28f1c9cd-17d8-4335-b8ce-3871d5c9e917'
+# NETLIFY_FORM_ID =               '61a86edc4fc1690008432673'
 
 headers = {
   'Authorization': "Bearer #{NETLIFY_PERSONAL_ACCESS_TOKEN}"
